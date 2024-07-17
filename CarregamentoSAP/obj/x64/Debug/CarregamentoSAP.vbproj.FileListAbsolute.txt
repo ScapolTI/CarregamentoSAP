@@ -1,0 +1,37 @@
+C:\Users\fabio.morales\OneDrive - Scapol Distribuidora Ltda\Documentos\Visual Studio 2017\Projects\CarregamentoSAP\CarregamentoSAP\obj\x64\Debug\Interop.ADODB.dll
+C:\Users\fabio.morales\OneDrive - Scapol Distribuidora Ltda\Documentos\Visual Studio 2017\Projects\CarregamentoSAP\CarregamentoSAP\obj\x64\Debug\Interop.SAPbobsCOM.dll
+C:\Users\fabio.morales\OneDrive - Scapol Distribuidora Ltda\Documentos\Visual Studio 2017\Projects\CarregamentoSAP\CarregamentoSAP\obj\x64\Debug\CarregamentoSAP.vbproj.ResolveComReference.cache
+C:\Users\fabio.morales\OneDrive - Scapol Distribuidora Ltda\Documentos\Visual Studio 2017\Projects\CarregamentoSAP\CarregamentoSAP\obj\x64\Debug\CarregamentoSAP.Form1.resources
+C:\Users\fabio.morales\OneDrive - Scapol Distribuidora Ltda\Documentos\Visual Studio 2017\Projects\CarregamentoSAP\CarregamentoSAP\obj\x64\Debug\CarregamentoSAP.Resources.resources
+C:\Users\fabio.morales\OneDrive - Scapol Distribuidora Ltda\Documentos\Visual Studio 2017\Projects\CarregamentoSAP\CarregamentoSAP\obj\x64\Debug\CarregamentoSAP.vbproj.GenerateResource.cache
+C:\Users\fabio.morales\OneDrive - Scapol Distribuidora Ltda\Documentos\Visual Studio 2017\Projects\CarregamentoSAP\CarregamentoSAP\obj\x64\Debug\CarregamentoSAP.vbproj.CoreCompileInputs.cache
+C:\Users\fabio.morales\OneDrive - Scapol Distribuidora Ltda\Documentos\Visual Studio 2017\Projects\CarregamentoSAP\CarregamentoSAP\bin\x64\Debug\CarregamentoSAP.exe.config
+C:\Users\fabio.morales\OneDrive - Scapol Distribuidora Ltda\Documentos\Visual Studio 2017\Projects\CarregamentoSAP\CarregamentoSAP\bin\x64\Debug\CarregamentoSAP.exe.manifest
+C:\Users\fabio.morales\OneDrive - Scapol Distribuidora Ltda\Documentos\Visual Studio 2017\Projects\CarregamentoSAP\CarregamentoSAP\bin\x64\Debug\CarregamentoSAP.application
+C:\Users\fabio.morales\OneDrive - Scapol Distribuidora Ltda\Documentos\Visual Studio 2017\Projects\CarregamentoSAP\CarregamentoSAP\bin\x64\Debug\CarregamentoSAP.exe
+C:\Users\fabio.morales\OneDrive - Scapol Distribuidora Ltda\Documentos\Visual Studio 2017\Projects\CarregamentoSAP\CarregamentoSAP\bin\x64\Debug\CarregamentoSAP.pdb
+C:\Users\fabio.morales\OneDrive - Scapol Distribuidora Ltda\Documentos\Visual Studio 2017\Projects\CarregamentoSAP\CarregamentoSAP\bin\x64\Debug\CarregamentoSAP.xml
+C:\Users\fabio.morales\OneDrive - Scapol Distribuidora Ltda\Documentos\Visual Studio 2017\Projects\CarregamentoSAP\CarregamentoSAP\obj\x64\Debug\CarregamentoSAP.exe.manifest
+C:\Users\fabio.morales\OneDrive - Scapol Distribuidora Ltda\Documentos\Visual Studio 2017\Projects\CarregamentoSAP\CarregamentoSAP\obj\x64\Debug\CarregamentoSAP.application
+C:\Users\fabio.morales\OneDrive - Scapol Distribuidora Ltda\Documentos\Visual Studio 2017\Projects\CarregamentoSAP\CarregamentoSAP\obj\x64\Debug\CarregamentoSAP.exe
+C:\Users\fabio.morales\OneDrive - Scapol Distribuidora Ltda\Documentos\Visual Studio 2017\Projects\CarregamentoSAP\CarregamentoSAP\obj\x64\Debug\CarregamentoSAP.xml
+C:\Users\fabio.morales\OneDrive - Scapol Distribuidora Ltda\Documentos\Visual Studio 2017\Projects\CarregamentoSAP\CarregamentoSAP\obj\x64\Debug\CarregamentoSAP.pdb
+C:\CarregamentoSAP\CarregamentoSAP\bin\x64\Debug\CarregamentoSAP.exe.config
+C:\CarregamentoSAP\CarregamentoSAP\bin\x64\Debug\CarregamentoSAP.exe.manifest
+C:\CarregamentoSAP\CarregamentoSAP\bin\x64\Debug\CarregamentoSAP.application
+C:\CarregamentoSAP\CarregamentoSAP\bin\x64\Debug\CarregamentoSAP.exe
+C:\CarregamentoSAP\CarregamentoSAP\bin\x64\Debug\CarregamentoSAP.pdb
+C:\CarregamentoSAP\CarregamentoSAP\bin\x64\Debug\CarregamentoSAP.xml
+C:\CarregamentoSAP\CarregamentoSAP\obj\x64\Debug\CarregamentoSAP.vbproj.AssemblyReference.cache
+C:\CarregamentoSAP\CarregamentoSAP\obj\x64\Debug\Interop.ADODB.dll
+C:\CarregamentoSAP\CarregamentoSAP\obj\x64\Debug\Interop.SAPbobsCOM.dll
+C:\CarregamentoSAP\CarregamentoSAP\obj\x64\Debug\CarregamentoSAP.vbproj.ResolveComReference.cache
+C:\CarregamentoSAP\CarregamentoSAP\obj\x64\Debug\CarregamentoSAP.Form1.resources
+C:\CarregamentoSAP\CarregamentoSAP\obj\x64\Debug\CarregamentoSAP.Resources.resources
+C:\CarregamentoSAP\CarregamentoSAP\obj\x64\Debug\CarregamentoSAP.vbproj.GenerateResource.cache
+C:\CarregamentoSAP\CarregamentoSAP\obj\x64\Debug\CarregamentoSAP.vbproj.CoreCompileInputs.cache
+C:\CarregamentoSAP\CarregamentoSAP\obj\x64\Debug\CarregamentoSAP.exe.manifest
+C:\CarregamentoSAP\CarregamentoSAP\obj\x64\Debug\CarregamentoSAP.application
+C:\CarregamentoSAP\CarregamentoSAP\obj\x64\Debug\CarregamentoSAP.exe
+C:\CarregamentoSAP\CarregamentoSAP\obj\x64\Debug\CarregamentoSAP.xml
+C:\CarregamentoSAP\CarregamentoSAP\obj\x64\Debug\CarregamentoSAP.pdb
